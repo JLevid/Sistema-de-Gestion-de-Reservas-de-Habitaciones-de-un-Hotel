@@ -1,0 +1,44 @@
+[
+	{
+		"id" : 4,
+		"nombre_cliente" : "Jairon Caal",
+		"fecha_inicio" : "2024-11-10 00:00:00.000000",
+		"fecha_fin" : "2024-11-11 00:00:00.000000",
+		"tipo_habitacion" : "Sencilla"
+	},
+	{
+		"id" : 5,
+		"nombre_cliente" : "Levid Orozco",
+		"fecha_inicio" : "2024-07-08 00:00:00.000000",
+		"fecha_fin" : "2027-07-09 00:00:00.000000",
+		"tipo_habitacion" : "Doble"
+	},
+	{
+		"id" : 6,
+		"nombre_cliente" : "Abimael Orozco",
+		"fecha_inicio" : "2024-06-06 00:00:00.000000",
+		"fecha_fin" : "2027-06-09 00:00:00.000000",
+		"tipo_habitacion" : "Suite"
+	},
+	{
+		"id" : 7,
+		"nombre_cliente" : "Juan Perez",
+		"fecha_inicio" : "2024-06-06 00:00:00.000000",
+		"fecha_fin" : "2027-06-09 00:00:00.000000",
+		"tipo_habitacion" : "Sencilla"
+	},
+	{
+		"id" : 8,
+		"nombre_cliente" : "Pedro Fernandez",
+		"fecha_inicio" : "2024-11-06 00:00:00.000000",
+		"fecha_fin" : "2027-11-09 00:00:00.000000",
+		"tipo_habitacion" : "Suite"
+	},
+	{
+		"id" : 9,
+		"nombre_cliente" : "Carlos Juarez",
+		"fecha_inicio" : "2024-11-10 00:00:00.000000",
+		"fecha_fin" : "2024-11-11 00:00:00.000000",
+		"tipo_habitacion" : "Sencilla"
+	}
+]
